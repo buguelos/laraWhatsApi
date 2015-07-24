@@ -100,14 +100,7 @@
                 "whatsapp"
             ],
             "time": "2014-11-01 21:57:06"
-        },
-        {
-            "name": "thomasvargiu/tmv-whatsapi",
-            "version": "v0.1.4",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/thomasvargiu/TmvWhatsApi.git",
-                "reference": "ae819349e0dc93e69fa2b8c0c911a9ef149b2e4b"
+       
             },
             "dist": {
                 "type": "zip",
